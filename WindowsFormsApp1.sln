@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDownloader", "WindowsFormsApp1\YoutubeDownloader.csproj", "{62278A71-FF33-457F-B6B0-1699978CEEA6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YoutubeDownloaderSetup", "YoutubeDownloaderSetup\YoutubeDownloaderSetup.vdproj", "{4029F4A7-BABC-4A93-9A73-6A155010BC46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62278A71-FF33-457F-B6B0-1699978CEEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62278A71-FF33-457F-B6B0-1699978CEEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62278A71-FF33-457F-B6B0-1699978CEEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62278A71-FF33-457F-B6B0-1699978CEEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4029F4A7-BABC-4A93-9A73-6A155010BC46}.Debug|Any CPU.ActiveCfg = Debug
+		{4029F4A7-BABC-4A93-9A73-6A155010BC46}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E223D90A-C841-4C9B-AE97-8156C5883B04}
+	EndGlobalSection
+EndGlobal
